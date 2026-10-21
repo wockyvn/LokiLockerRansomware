@@ -1,0 +1,15 @@
+# Loki Locker Ransomware Encrypted Extensions
+*.Loki
+*.Rainman
+*.PayForKey
+
+# Loki Locker Ransom Note Files
+Restore-My-Files.txt
+
+# Common Malware Droppers and Scanners associated with Loki Locker
+ns.exe
+winlogon.exe
+
+# Temporary Malware Logs and Execution Artifacts
+logs.txt
+*.loki
