@@ -97,7 +97,7 @@ The default note literally says:
 ```
 Your files are gone. Well, encrypted. Same thing to you.
 
-Password: infecteddd
+Password: infected
 
 Run: 7z x <archive>.7z -pinfecteddd
 ```
