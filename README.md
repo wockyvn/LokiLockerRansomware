@@ -35,8 +35,8 @@ Loki Locker builds fast, runs fast, and does exactly what it says.
 If you can't build this, that's on you.
 
 ```bash
-git clone <your-repo-url>
-cd loki-locker
+git clone https://github.com/wockyvn/LokiLockerRansomware/tree/main
+cd LokiLockerRansomware
 mkdir build && cd build
 cmake ..
 make -j$(nproc)
